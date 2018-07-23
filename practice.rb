@@ -7,3 +7,5 @@ print "I am learning to code "
 print "at Kode with KLossy!"
 
 karlie = "i love kwk"
+
+puts "Hello my name is Karlie and #{karlie}"
