@@ -9,3 +9,5 @@ print "at Kode with KLossy!"
 karlie = "i love kwk"
 
 puts "Hello my name is Karlie and #{karlie}"
+
+puts "1+1"
